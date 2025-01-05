@@ -3,6 +3,7 @@ using namespace std;
 
 class HelloITI
 {
+    int id;
     public:
     void printHelloITI()
     {
