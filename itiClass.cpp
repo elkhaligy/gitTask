@@ -17,6 +17,10 @@ class HelloITI
     {
         this -> id = id;
     }
+    int getId()
+    {
+        return this -> id;
+    }
 };
 
 int main()
