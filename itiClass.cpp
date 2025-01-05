@@ -8,6 +8,10 @@ class HelloITI
     {
         cout << "Hello ITI";
     }
+    void printHelloGit()
+    {
+        cout << "Hello Git";
+    }
 };
 
 int main()
