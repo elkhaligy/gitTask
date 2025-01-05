@@ -6,7 +6,7 @@ class HelloJava
     public:
     void printHelloWorld()
     {
-        cout << "Hello World";
+        cout << "Hello World" << endl;
     }
 };
 
