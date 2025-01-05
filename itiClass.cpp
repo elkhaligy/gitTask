@@ -13,6 +13,10 @@ class HelloITI
     {
         cout << "Hello Git";
     }
+    void setId(int id)
+    {
+        this -> id = id;
+    }
 };
 
 int main()
